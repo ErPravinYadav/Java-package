@@ -111,6 +111,7 @@ public class BaseClass {
 	{
 		//dUtil.closeDB();
 		Reporter.log("-- Database closed   Successfully-- " ,true);
-		System.out.println(" this is modification add for git");
+		System.out.println(" this is modification add for git performing commit and push");
+		System.out.println(" this is modification add for git performing pull");
 	}
 }
