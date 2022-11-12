@@ -113,5 +113,6 @@ public class BaseClass {
 		Reporter.log("-- Database closed   Successfully-- " ,true);
 		System.out.println(" this is modification add for git performing commit and push");
 		System.out.println(" this is modification add for git performing pull");
+		System.out.println(" this is modification add for git performing pull after import this is modification");
 	}
 }
